@@ -7,7 +7,7 @@ Estudiante de cuarto año de la escuela de Geografía.
 - Geografía rural.
 - Geografía de la Conservación y el desarrollo.
 - Biogeografía  
-![](https://www.pinterest.cl/pin/710231803707325502/.JPEG "Dendrobates auratus")  
+![](Dendro.jpg "Dendrobates auratus")  
 - Ordenamiento territorial.
 
 ## Cursos que estoy cursando en el II-2022:
