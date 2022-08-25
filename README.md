@@ -1,3 +1,5 @@
+config.yml
+remote_theme: pages-themes/hacker@v0.2.0  
 # Curriculum vitae de Jose Gamboa.  
 
 Estudiante de cuarto año de la escuela de Geografía.  
